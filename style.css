@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+button {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 20px;
+    color: blueviolet
+}
+
+button:hover{
+    background-color: lightgray;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#text {
+    margin-bottom: 5px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+#box {
+    padding: 10px;
+    border: 5px white solid;
+    border-radius: 3px;
+}
